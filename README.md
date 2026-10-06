@@ -7,14 +7,14 @@
 - 🏘️ About the project:
    A housing app that helps students and expatriates find and book suitable accommodation for flexible stays. The platform allows users to choose between options such as entire apartments, private rooms, or shared rooms, without the need for an intermediary.
 
-   Users can communicate directly with property owners through the app, while trusted listings help them find more reliable accommodation. For shared         housing, users can also review potential roommates’ preferences and house rules to see how well they match before making a decision.
+   Users can communicate directly with property owners through the app, while trusted listings help them find more reliable accommodation. For shared  housing, users can also review potential roommates’ preferences and house rules to see how well they match before making a decision.
 
 - 👥Team members:
-   Shrouk Tarek El Asqlany
-   Reem Mohammad Hamed
-   Aliaa Essam El Shafey
-   Hager Salah Abdullah
-   Hussein Mohammad EL Yamany
+   1-Shrouk Tarek El Asqlany
+   2-Reem Mohammad Hamed
+   3-Aliaa Essam El Shafey
+   4-Hager Salah Abdullah
+   5-Hussein Mohammad EL Yamany
 
 - Instructor:
    Eng/Mohammad Qamar
